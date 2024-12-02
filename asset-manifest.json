@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/JS-Holbrook.github.io/ZaytaWebsite/static/css/main.4854abec.css",
+    "main.js": "/JS-Holbrook.github.io/ZaytaWebsite/static/js/main.770cd798.js",
+    "static/js/453.4728ea3b.chunk.js": "/JS-Holbrook.github.io/ZaytaWebsite/static/js/453.4728ea3b.chunk.js",
+    "static/media/image5.jpg": "/JS-Holbrook.github.io/ZaytaWebsite/static/media/image5.0aec2ff9de10c57ab273.jpg",
+    "static/media/ZaytaWebLogoBeta1.png": "/JS-Holbrook.github.io/ZaytaWebsite/static/media/ZaytaWebLogoBeta1.7b125f7a5dc43115a7d6.png",
+    "static/media/image3.jpg": "/JS-Holbrook.github.io/ZaytaWebsite/static/media/image3.5405ce71516dfc118979.jpg",
+    "static/media/image2.jpg": "/JS-Holbrook.github.io/ZaytaWebsite/static/media/image2.7b80b6520c96a84a0f9e.jpg",
+    "index.html": "/JS-Holbrook.github.io/ZaytaWebsite/index.html",
+    "main.4854abec.css.map": "/JS-Holbrook.github.io/ZaytaWebsite/static/css/main.4854abec.css.map",
+    "main.770cd798.js.map": "/JS-Holbrook.github.io/ZaytaWebsite/static/js/main.770cd798.js.map",
+    "453.4728ea3b.chunk.js.map": "/JS-Holbrook.github.io/ZaytaWebsite/static/js/453.4728ea3b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4854abec.css",
+    "static/js/main.770cd798.js"
+  ]
+}
